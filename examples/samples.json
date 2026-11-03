@@ -1,0 +1,722 @@
+[
+ {
+  "id": "mmsi_009_0037_q355",
+  "task": "T",
+  "frames": [
+   "mmsi_009_0037_q355/frame_01.jpg",
+   "mmsi_009_0037_q355/frame_02.jpg",
+   "mmsi_009_0037_q355/frame_03.jpg",
+   "mmsi_009_0037_q355/frame_04.jpg",
+   "mmsi_009_0037_q355/frame_05.jpg",
+   "mmsi_009_0037_q355/frame_06.jpg",
+   "mmsi_009_0037_q355/frame_07.jpg",
+   "mmsi_009_0037_q355/frame_08.jpg"
+  ],
+  "question": "Watch this video of speakers' social interaction, be aware of their non-verbal behaviours. Read the conversation.\nSpeaker 0 : I saw one in the center.\nSpeaker 4 : How did you see the-\nSpeaker 0 : I was a werewolf.\nSpeaker 4 : Oh, right.\nSpeaker 4 : So you might be on [Speaker 3]' team right now. In fact, two out of the three of them are on [Speaker 3]' team.\nSpeaker 3 : It doesn't matter because you're fucking dead, because I fucked up.\nSpeaker 4 : Yeah, it doesn't matter. We're all voting [Speaker 3].\nSpeaker 1 : Yeah, I think we can vote.\nSpeaker 0 : Should we just vote now?\nSpeaker 0 : I hope you're on the villains' team.\nPredict the speaking target (speaking to whom) of this sentence: Speaker 3 : It doesn't matter because you're fucking dead, because I fucked up.\nPlease only output one speaker label, e.g., Speaker X. Your answer is:",
+  "answer": "Speaker 4",
+  "speaker_boxes": {
+   "0": [
+    0,
+    0.03404952732600041,
+    0.23842029694364145,
+    0.7181628558030493
+   ],
+   "1": [
+    0.010330652932097529,
+    0.20166727229136244,
+    0.19674257891100128,
+    0.7538950950327012
+   ],
+   "2": [
+    0.2912186164878276,
+    0.4390162312718389,
+    0.5274413432268151,
+    0.9156948041113853
+   ],
+   "3": [
+    0.5114366022698347,
+    0.35724808351195025,
+    0.8867174841515496,
+    0.9284597303285255
+   ],
+   "4": [
+    0.7655044942345806,
+    0.08394960863883101,
+    0.9947045781442169,
+    0.9120666304985356
+   ]
+  },
+  "speaker_spans": {
+   "0": [
+    [
+     114,
+     150
+    ],
+    [
+     184,
+     213
+    ],
+    [
+     547,
+     583
+    ],
+    [
+     584,
+     632
+    ]
+   ],
+   "4": [
+    [
+     151,
+     183
+    ],
+    [
+     214,
+     236
+    ],
+    [
+     237,
+     360
+    ],
+    [
+     441,
+     507
+    ]
+   ],
+   "3": [
+    [
+     361,
+     440
+    ],
+    [
+     698,
+     777
+    ]
+   ],
+   "1": [
+    [
+     508,
+     546
+    ]
+   ]
+  },
+  "video": "mmsi_009_0037_q355/clip.mp4"
+ },
+ {
+  "id": "mmsi_048_0069_q1647",
+  "task": "T",
+  "frames": [
+   "mmsi_048_0069_q1647/frame_01.jpg",
+   "mmsi_048_0069_q1647/frame_02.jpg",
+   "mmsi_048_0069_q1647/frame_03.jpg",
+   "mmsi_048_0069_q1647/frame_04.jpg",
+   "mmsi_048_0069_q1647/frame_05.jpg",
+   "mmsi_048_0069_q1647/frame_06.jpg",
+   "mmsi_048_0069_q1647/frame_07.jpg",
+   "mmsi_048_0069_q1647/frame_08.jpg"
+  ],
+  "question": "Watch this video of speakers' social interaction, be aware of their non-verbal behaviours. Read the conversation.\nSpeaker 4 : But what the fuck.\nSpeaker 2 : What the fuck is [Speaker 3] going to do If we decide to kill [Speaker 4]?\nSpeaker 0 : He's going to vote for me.\nSpeaker 2 : Okay. But he can't. Okay. As the tanner, he can't screw up the vote for us because we're not trying to vote for laughs so you can't do that, take us down.\nSpeaker 0 : You can't do the Mike plan. Cursed Mike plan. Chad didn't like that plan.\nSpeaker 4 : Who are you voting for?\nSpeaker 3 : What?\nSpeaker 4 : I'll vote with you because I'm a werewolf. I'm scared.\nSpeaker 0 : Oh, you can't vote for yourself.\nSpeaker 3 : Well here's the thing, again because, okay, so I was a seer.\nPredict the speaking target (speaking to whom) of this sentence: Speaker 4 : Who are you voting for?\nPlease only output one speaker label, e.g., Speaker X. Your answer is:",
+  "answer": "Speaker 3",
+  "speaker_boxes": {
+   "0": [
+    0,
+    0.026100093186566652,
+    0.1891123969440121,
+    0.9770980317853053
+   ],
+   "1": [
+    0.08535808551787223,
+    0.13629499889368396,
+    0.3240256193074703,
+    0.89307667227265
+   ],
+   "2": [
+    0.3546251044230153,
+    0.155634864204969,
+    0.655343965898003,
+    0.7955846487122307
+   ],
+   "3": [
+    0.71508099939874,
+    0.18857628528788267,
+    0.999300995222057,
+    0.6686883052615074
+   ],
+   "4": [
+    0.9599348811172653,
+    0.016292272376753934,
+    1,
+    0.5237237732415576
+   ]
+  },
+  "speaker_spans": {
+   "4": [
+    [
+     114,
+     144
+    ],
+    [
+     524,
+     559
+    ],
+    [
+     578,
+     644
+    ],
+    [
+     828,
+     863
+    ]
+   ],
+   "2": [
+    [
+     145,
+     231
+    ],
+    [
+     271,
+     437
+    ]
+   ],
+   "0": [
+    [
+     232,
+     270
+    ],
+    [
+     438,
+     523
+    ],
+    [
+     645,
+     689
+    ]
+   ],
+   "3": [
+    [
+     560,
+     577
+    ],
+    [
+     690,
+     762
+    ]
+   ]
+  },
+  "video": "mmsi_048_0069_q1647/clip.mp4"
+ },
+ {
+  "id": "mmsi_136_0086_q631",
+  "task": "T",
+  "frames": [
+   "mmsi_136_0086_q631/frame_01.jpg",
+   "mmsi_136_0086_q631/frame_02.jpg",
+   "mmsi_136_0086_q631/frame_03.jpg",
+   "mmsi_136_0086_q631/frame_04.jpg",
+   "mmsi_136_0086_q631/frame_05.jpg",
+   "mmsi_136_0086_q631/frame_06.jpg",
+   "mmsi_136_0086_q631/frame_07.jpg",
+   "mmsi_136_0086_q631/frame_08.jpg"
+  ],
+  "question": "Watch this video of speakers' social interaction, be aware of their non-verbal behaviours. Read the conversation.\nSpeaker 2 : Oh, okay. Strategy learning.\nSpeaker 3 : If this is correct, it might not be correct.\nSpeaker 2 : Well yeah, you could be lying, but it's in your best interest to kill the werewolf.\nSpeaker 1 : True, true.\nSpeaker 0 : It said \"Seer, wake up. Go to sleep.\"\nSpeaker 3 : Because, they could both be werewolves and playing a very nice game of politely pinning it on you now.\nSpeaker 0 : It may have peanut butter babe.\nSpeaker 2 : Oh yeah, right.\nSpeaker 1 : Yeah we totally could be.\nSpeaker 2 : Well no, because I switched with him originally.\nSpeaker 3 : Oh you robbed him originally?\nPredict the speaking target (speaking to whom) of this sentence: Speaker 3 : Because, they could both be werewolves and playing a very nice game of politely pinning it on you now.\nPlease only output one speaker label, e.g., Speaker X. Your answer is:",
+  "answer": "Speaker 2",
+  "speaker_boxes": {
+   "0": [
+    0.0002067369880428993,
+    0.18304629727112756,
+    0.32071371216183364,
+    0.8693971421430929
+   ],
+   "1": [
+    0.3284449266276291,
+    0.23152076048470005,
+    0.5798024069471175,
+    0.7650200191192431
+   ],
+   "2": [
+    0.6341223735979988,
+    0.19310825738383264,
+    0.9549727214745282,
+    0.8162433257237285
+   ],
+   "3": [
+    0.8788231395532401,
+    0.16119394073722415,
+    1,
+    0.6990527244106506
+   ]
+  },
+  "speaker_spans": {
+   "2": [
+    [
+     114,
+     154
+    ],
+    [
+     212,
+     307
+    ],
+    [
+     541,
+     568
+    ],
+    [
+     607,
+     667
+    ]
+   ],
+   "3": [
+    [
+     155,
+     211
+    ],
+    [
+     382,
+     496
+    ],
+    [
+     668,
+     709
+    ],
+    [
+     775,
+     889
+    ]
+   ],
+   "1": [
+    [
+     308,
+     331
+    ],
+    [
+     569,
+     606
+    ]
+   ],
+   "0": [
+    [
+     332,
+     381
+    ],
+    [
+     497,
+     540
+    ]
+   ]
+  },
+  "video": "mmsi_136_0086_q631/clip.mp4"
+ },
+ {
+  "id": "mmsi_027_0125_q188",
+  "task": "N",
+  "frames": [
+   "mmsi_027_0125_q188/frame_01.jpg",
+   "mmsi_027_0125_q188/frame_02.jpg",
+   "mmsi_027_0125_q188/frame_03.jpg",
+   "mmsi_027_0125_q188/frame_04.jpg",
+   "mmsi_027_0125_q188/frame_05.jpg",
+   "mmsi_027_0125_q188/frame_06.jpg",
+   "mmsi_027_0125_q188/frame_07.jpg",
+   "mmsi_027_0125_q188/frame_08.jpg"
+  ],
+  "question": "Watch this video of speakers' social interaction, be aware of their non-verbal behaviours. Read the conversation.\nSpeaker 2 : Says you. Says you.\nSpeaker 3 : But I said 100%.\nSpeaker 2 : [Speaker 5] that's not proving anything.\nSpeaker 4 : Who's cards did you switch?\nSpeaker 1 : 100%.\nSpeaker 5 : Them two, [MASK] and [Speaker 0]'s.\nSpeaker 4 : Okay so [Speaker 1] and [Speaker 0] switched, you were the Seer so that means you're the Seer so you could be a Werewolf if you have his card.\nSpeaker 3 : But he wasn't- but he's-\nSpeaker 0 : Yeah if he was lying about being a Villager originally.\nSpeaker 2 : Who was the robber?\nSpeaker 3 : But he's saying he saw my Werewolf and I'm a Villager so I don't know why we trust him.\nPredict which speaker should be the [MASK] in this sentence: Speaker 5 : Them two, [MASK] and [Speaker 0]'s.\nPlease only output one speaker label, e.g., Speaker X. Your answer is:",
+  "answer": "Speaker 1",
+  "speaker_boxes": {
+   "0": [
+    0,
+    0.14521376175229245,
+    0.2870060809902736,
+    0.8615378364977538
+   ],
+   "1": [
+    0.15043158966841697,
+    0.14386590035355964,
+    0.39025588866792393,
+    0.6576815469395392
+   ],
+   "2": [
+    0.39766459549517885,
+    0.18207217444124923,
+    0.5351250747915526,
+    0.5508809577379434
+   ],
+   "3": [
+    0.5286430296534339,
+    0.17391314491859558,
+    0.7155921625114556,
+    0.5638793524248001
+   ],
+   "4": [
+    0.6976677971533365,
+    0.1992735630276736,
+    0.8867640463686846,
+    0.6000051379407184
+   ],
+   "5": [
+    0.7560898443379516,
+    0.09973623524286614,
+    0.9975399218060877,
+    0.711177311049532
+   ]
+  },
+  "speaker_spans": {
+   "2": [
+    [
+     114,
+     145
+    ],
+    [
+     175,
+     227
+    ],
+    [
+     594,
+     625
+    ]
+   ],
+   "3": [
+    [
+     146,
+     174
+    ],
+    [
+     489,
+     525
+    ],
+    [
+     626,
+     725
+    ]
+   ],
+   "4": [
+    [
+     228,
+     267
+    ],
+    [
+     334,
+     488
+    ]
+   ],
+   "1": [
+    [
+     268,
+     285
+    ]
+   ],
+   "5": [
+    [
+     286,
+     333
+    ],
+    [
+     787,
+     834
+    ]
+   ],
+   "0": [
+    [
+     526,
+     593
+    ]
+   ]
+  },
+  "video": "mmsi_027_0125_q188/clip.mp4"
+ },
+ {
+  "id": "mmsi_125_0080_q765",
+  "task": "N",
+  "frames": [
+   "mmsi_125_0080_q765/frame_01.jpg",
+   "mmsi_125_0080_q765/frame_02.jpg",
+   "mmsi_125_0080_q765/frame_03.jpg",
+   "mmsi_125_0080_q765/frame_04.jpg",
+   "mmsi_125_0080_q765/frame_05.jpg",
+   "mmsi_125_0080_q765/frame_06.jpg",
+   "mmsi_125_0080_q765/frame_07.jpg",
+   "mmsi_125_0080_q765/frame_08.jpg"
+  ],
+  "question": "Watch this video of speakers' social interaction, be aware of their non-verbal behaviours. Read the conversation.\nSpeaker 3 : Can we vote now and just kill [Speaker 1]? I'm not voting for [Speaker 1].\nSpeaker 1 : I'm voting for [Speaker 3].\nSpeaker 1 : Don't vote for me.\nSpeaker 0 : I'll kill [Speaker 3].\nSpeaker 1 : Don't kill me. Look.\nSpeaker 0 : You want to kill [MASK]?\nSpeaker 3 : Kill [Speaker 3] with me.\nSpeaker 1 : No, they're werewolves together. No, you're a werewolf. Cause they trouble made you.\nSpeaker 3 : I'm voting [Speaker 3].\nSpeaker 0 : Don't vote [Speaker 3].\nSpeaker 2 : I'm going to, You know what? I'm going to vote. oh fuck.\nPredict which speaker should be the [MASK] in this sentence: Speaker 0 : You want to kill [MASK]?\nPlease only output one speaker label, e.g., Speaker X. Your answer is:",
+  "answer": "Speaker 3",
+  "speaker_boxes": {
+   "0": [
+    0.002400941724348771,
+    0.22958794927283283,
+    0.24622137371840344,
+    0.9877080444405496
+   ],
+   "1": [
+    0.1427251568702776,
+    0.27579684834418366,
+    0.3904295611995042,
+    0.9293044145411449
+   ],
+   "2": [
+    0.46544874114854445,
+    0.2089230344104978,
+    0.7083869756177428,
+    0.7425347040653163
+   ],
+   "3": [
+    0.7081274229822438,
+    0.28927835079116127,
+    0.9907945446396427,
+    0.9719817511041406
+   ]
+  },
+  "speaker_spans": {
+   "3": [
+    [
+     114,
+     200
+    ],
+    [
+     377,
+     414
+    ],
+    [
+     512,
+     547
+    ]
+   ],
+   "1": [
+    [
+     201,
+     240
+    ],
+    [
+     241,
+     271
+    ],
+    [
+     307,
+     339
+    ],
+    [
+     415,
+     511
+    ]
+   ],
+   "0": [
+    [
+     272,
+     306
+    ],
+    [
+     340,
+     376
+    ],
+    [
+     548,
+     583
+    ],
+    [
+     714,
+     750
+    ]
+   ],
+   "2": [
+    [
+     584,
+     652
+    ]
+   ]
+  },
+  "video": "mmsi_125_0080_q765/clip.mp4"
+ },
+ {
+  "id": "mmsi_136_0092_q635",
+  "task": "P",
+  "frames": [
+   "mmsi_136_0092_q635/frame_01.jpg",
+   "mmsi_136_0092_q635/frame_02.jpg",
+   "mmsi_136_0092_q635/frame_03.jpg",
+   "mmsi_136_0092_q635/frame_04.jpg",
+   "mmsi_136_0092_q635/frame_05.jpg",
+   "mmsi_136_0092_q635/frame_06.jpg",
+   "mmsi_136_0092_q635/frame_07.jpg",
+   "mmsi_136_0092_q635/frame_08.jpg"
+  ],
+  "question": "Watch this video of speakers' social interaction, be aware of their non-verbal behaviours. Read the conversation.\nSpeaker 0 : It may have peanut butter babe.\nSpeaker 2 : Oh yeah, right.\nSpeaker 1 : Yeah we totally could be.\nSpeaker 2 : Well no, because I switched with him originally.\nSpeaker 3 : Oh you robbed him originally?\nSpeaker 1 : Oh yeah that's right. So then [MASK] would be a werewolf.\nSpeaker 2 : Neither of us were werewolves. So there really is only one werewolf and logically it's me.\nSpeaker 0 : And it's the worst ever when you're a werewolf and you pick up the werewolf card, you're like, fuck.\nSpeaker 1 : Yeah that sucks.\nSpeaker 0 : Now what?\nSpeaker 1 : Somebody switch with me, somebody.\nPredict which speaker should be the [MASK] in this sentence: Speaker 1 : Oh yeah that's right. So then [MASK] would be a werewolf.\nPlease only output one speaker label, e.g., Speaker X. Your answer is:",
+  "answer": "Speaker 2",
+  "speaker_boxes": {
+   "0": [
+    0.0002067369880428993,
+    0.18304629727112756,
+    0.32071371216183364,
+    0.8693971421430929
+   ],
+   "1": [
+    0.3284449266276291,
+    0.23152076048470005,
+    0.5798024069471175,
+    0.7650200191192431
+   ],
+   "2": [
+    0.6341223735979988,
+    0.19310825738383264,
+    0.9549727214745282,
+    0.8162433257237285
+   ],
+   "3": [
+    0.8788231395532401,
+    0.16119394073722415,
+    1,
+    0.6990527244106506
+   ]
+  },
+  "speaker_spans": {
+   "0": [
+    [
+     114,
+     157
+    ],
+    [
+     500,
+     612
+    ],
+    [
+     642,
+     663
+    ]
+   ],
+   "2": [
+    [
+     158,
+     185
+    ],
+    [
+     224,
+     284
+    ],
+    [
+     397,
+     499
+    ]
+   ],
+   "1": [
+    [
+     186,
+     223
+    ],
+    [
+     327,
+     396
+    ],
+    [
+     613,
+     641
+    ],
+    [
+     664,
+     710
+    ],
+    [
+     772,
+     841
+    ]
+   ],
+   "3": [
+    [
+     285,
+     326
+    ]
+   ]
+  },
+  "video": "mmsi_136_0092_q635/clip.mp4"
+ },
+ {
+  "id": "tvqa_01262_q1262",
+  "task": "QA",
+  "frames": [
+   "tvqa_01262_q1262/frame_01.jpg",
+   "tvqa_01262_q1262/frame_02.jpg",
+   "tvqa_01262_q1262/frame_03.jpg",
+   "tvqa_01262_q1262/frame_04.jpg",
+   "tvqa_01262_q1262/frame_05.jpg",
+   "tvqa_01262_q1262/frame_06.jpg",
+   "tvqa_01262_q1262/frame_07.jpg",
+   "tvqa_01262_q1262/frame_08.jpg"
+  ],
+  "question": "Watch this video of speakers' social interaction, read their conversation, question and choose the correct answer.\nSheldon : moving in with Penny feels like a big change ,\nLeonard : but it  's not .\nSheldon : How can you say that ?\nSheldon : Amy  's gone ,\nSheldon : and you two are married now ,\nSheldon : so it  's only a matter of time before you  're gone , too .\nPenny : Okay , you do n't know what  's gon na happen .\nQuestion:Where did Penny sit after taking water out of the fridge ?\na0: Penny went to sit beside Sheldon in the lawn chair .\na1: Penny went to sit on the stool in the kitchen .\na2: Penny went sit in the bed .\na3: Penny went to sit on the table .\na4: Penny went to sit on the rug ,\nPlease only output the choice id (a0-a4). Your answer is:",
+  "answer": "a0",
+  "speaker_boxes": {
+   "0": [
+    0.3578125,
+    0.1361111111111111,
+    0.5390625,
+    0.85
+   ],
+   "1": [
+    0.28125,
+    0.3277777777777778,
+    0.4890625,
+    0.975
+   ]
+  },
+  "speaker_spans": {
+   "0": [
+    [
+     368,
+     423
+    ]
+   ],
+   "1": [
+    [
+     115,
+     171
+    ],
+    [
+     199,
+     231
+    ],
+    [
+     232,
+     256
+    ],
+    [
+     257,
+     296
+    ],
+    [
+     297,
+     367
+    ]
+   ]
+  },
+  "video": "tvqa_01262_q1262/clip.mp4"
+ },
+ {
+  "id": "tvqa_00514_q514",
+  "task": "QA",
+  "frames": [
+   "tvqa_00514_q514/frame_01.jpg",
+   "tvqa_00514_q514/frame_02.jpg",
+   "tvqa_00514_q514/frame_03.jpg",
+   "tvqa_00514_q514/frame_04.jpg",
+   "tvqa_00514_q514/frame_05.jpg",
+   "tvqa_00514_q514/frame_06.jpg",
+   "tvqa_00514_q514/frame_07.jpg",
+   "tvqa_00514_q514/frame_08.jpg"
+  ],
+  "question": "Watch this video of speakers' social interaction, read their conversation, question and choose the correct answer.\nLeonard : who learned how to use the toilet ?\nQuestion:What did Sheldon liken Leonard 's idea to when Leonard told his idea of the app ?\na0: a cat learning to use the toilet\na1: a dog going to school\na2: a dog jumping\na3: a bird singing\na4: a parrot talking\nPlease only output the choice id (a0-a4). Your answer is:",
+  "answer": "a0",
+  "speaker_boxes": {
+   "0": [
+    0.2078125,
+    0.07222222222222222,
+    0.821875,
+    1.0
+   ]
+  },
+  "speaker_spans": {
+   "0": [
+    [
+     115,
+     160
+    ]
+   ]
+  },
+  "video": "tvqa_00514_q514/clip.mp4"
+ }
+]
